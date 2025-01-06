@@ -1,0 +1,10 @@
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\bin\Debug\ProNaturMarktGMBH.exe.config
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\bin\Debug\ProNaturMarktGMBH.exe
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\bin\Debug\ProNaturMarktGMBH.pdb
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\obj\Debug\ProNaturMarktGMBH.csproj.AssemblyReference.cache
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\obj\Debug\ProNaturMarktGMBH.Properties.Resources.resources
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\obj\Debug\ProNaturMarktGMBH.csproj.GenerateResource.cache
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\obj\Debug\ProNaturMarktGMBH.csproj.CoreCompileInputs.cache
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\obj\Debug\ProNaturMarktGMBH.exe
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\obj\Debug\ProNaturMarktGMBH.pdb
+C:\DATA\C_scharp\Projeckt\ProNaturMarktGMBH\ProNaturMarktGMBH\obj\Debug\ProNaturMarktGMBH.LoadingScreen.resources
